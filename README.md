@@ -12,7 +12,7 @@
 ### 🛠️ Мой технологический стек
 
 * **🌐 Web-Frontend:** HTML5, CSS3
-* **🐍 Backend & Programming:** Python, C++
+* **🐍 Backend & Programming:** Python
 * **🗄️ Databases:** SQL
 
 ---
